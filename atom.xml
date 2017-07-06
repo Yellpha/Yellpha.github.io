@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>张亚华</title>
-  <subtitle>just do IT</subtitle>
+  <subtitle>Stay foolish Stay hungry</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-07-06T08:43:21.272Z</updated>
+  <updated>2017-07-06T10:16:51.641Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -20,14 +20,14 @@
     <link href="http://yoursite.com/2017/07/06/%E7%AC%AC%E4%B8%80%E7%AF%87%E6%96%87%E7%AB%A0/"/>
     <id>http://yoursite.com/2017/07/06/第一篇文章/</id>
     <published>2017-07-06T08:22:29.000Z</published>
-    <updated>2017-07-06T08:43:21.272Z</updated>
+    <updated>2017-07-06T10:16:51.641Z</updated>
     
-    <content type="html"><![CDATA[<p>　　欢迎来到我的个人网站，这篇篇文章是我在自己主页搭建完成后写的第一篇文章，我也不知道写点什么，但是就想记录一下，顺便做下测试，总得留下点足迹嘛，哈哈。以后自己也会在上面多更新一点东西。<br>　　首先介绍一下我自己吧，我现在还是一名在读的硕士研究生，学的方向是Java后端开发和Android移动开发。2018年就毕业了，想找一份软件开发的工作。以后自己在开发中遇到的问题或者总结都会在上面发布。<br>　　先写这么多吧，谢谢您的来访。</p>
+    <content type="html"><![CDATA[<p>　　　欢迎来到我的个人网站，这篇文章是我在自己主页搭建完成后写的第一篇文章，我也不知道写点什么，但是就想记录一下，顺便做下测试，总得留下点足迹嘛，哈哈。以后自己也会在上面多更新一点东西。<br>　　首先介绍一下我自己吧，我现在是一名重庆邮电大学的在读的硕士研究生，研究生课题是生命体征信号处理。同时也学习了Java和Android开发等编程语言。2018年就毕业了，想找一份关于Java后端开发或者Android移动开发的工作。<br>　　这是我自己的小窝，以后自己在开发中遇到的问题或者总结都会在上面发布。<br>　　先写这么多吧，谢谢您的来访。</p>
 ]]></content>
     
     <summary type="html">
     
-      &lt;p&gt;　　欢迎来到我的个人网站，这篇篇文章是我在自己主页搭建完成后写的第一篇文章，我也不知道写点什么，但是就想记录一下，顺便做下测试，总得留下点足迹嘛，哈哈。以后自己也会在上面多更新一点东西。&lt;br&gt;　　首先介绍一下我自己吧，我现在还是一名在读的硕士研究生，学的方向是Java后端
+      &lt;p&gt;　　　欢迎来到我的个人网站，这篇文章是我在自己主页搭建完成后写的第一篇文章，我也不知道写点什么，但是就想记录一下，顺便做下测试，总得留下点足迹嘛，哈哈。以后自己也会在上面多更新一点东西。&lt;br&gt;　　首先介绍一下我自己吧，我现在是一名重庆邮电大学的在读的硕士研究生，研究生课题
     
     </summary>
     
